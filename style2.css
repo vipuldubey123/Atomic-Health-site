@@ -537,15 +537,15 @@ page9 {
    }
 
    #circle {
-      height: 7vh;
-      width: 16vw;
+      height: 9vh;
+      width: 15vw;
       top: 11%;
       left: 80%;
    }
 
    #circle>h5 {
-      top: 10px;
-      left: 15px;
+      top: 8px;
+      left: 14px;
       font-size: 6vw;
    }
 
@@ -566,7 +566,7 @@ page9 {
    }
 
    #circle1 {
-      height: 7vh;
+      height: 9vh;
       width: 15vw;
       top: 11%;
    }
@@ -579,8 +579,20 @@ page9 {
    #left1>h2 {
       overflow: initial;
       margin-left: initial;
-      font-size: 15vw;
-      line-height: 7vh;
+      font-size: 5vw;
+      line-height: 9vh;
+      top: 15%;
+    left: 16%;
+    position: relative;
+   }
+   #left1>h2:nth-child(1){
+      font-size: 8vw;
+   }
+   #left1>h2:nth-child(2){
+      font-size: 7vw;
+   }
+   #left1>h2:nth-child(3){
+      font-size: 8vw;
    }
 
    #page2 {
@@ -605,7 +617,7 @@ page9 {
    }
 
    #page3>h3 {
-      top: 28.5%;
+      top: 31%;
       font-size: 17px;
    }
 
@@ -620,7 +632,7 @@ page9 {
    }
 
    #page4>h3 {
-      top: 35.8%;
+      top: 38.8%;
       font-size: 17px;
    }
 
@@ -636,13 +648,14 @@ page9 {
    }
 
    #page5>h3 {
-      margin-top: 53%;
+      margin-top: 31%;
       left: 4%;
       font-size: 6.5vw;
    }
 
    #page5>h4 {
-      margin-top: 48.5%;
+      margin-top: 26.5%;
+
       left: 59%;
       font-size: 14vw;
    }
@@ -658,7 +671,7 @@ page9 {
    }
 
    #page6>h3 {
-      top: 54%;
+      top: 57.5%;
       font-size: 17px;
    }
 
@@ -672,8 +685,8 @@ page9 {
       left: 5%;
    }
 
-   #page7>h3 {
-      top: 61%;
+   #page7>h3 {  
+      top: 65%;
       font-size: 17px;
    }
 
@@ -702,5 +715,8 @@ page9 {
    }
    #menu3>h3{
       font-size: 18px;
+   }
+   #footervideo{
+      height: 32vh;
    }
 }
