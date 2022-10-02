@@ -537,7 +537,7 @@ page9 {
    }
 
    #circle {
-      height: 9vh;
+      height: 7vh;
       width: 15vw;
       top: 11%;
       left: 80%;
@@ -566,7 +566,7 @@ page9 {
    }
 
    #circle1 {
-      height: 9vh;
+      height: 7vh;
       width: 15vw;
       top: 11%;
    }
@@ -648,13 +648,15 @@ page9 {
    }
 
    #page5>h3 {
-      margin-top: 31%;
+      margin-top: 42%;
+
       left: 4%;
       font-size: 6.5vw;
    }
 
    #page5>h4 {
-      margin-top: 26.5%;
+      margin-top: 37%;
+
 
       left: 59%;
       font-size: 14vw;
@@ -717,6 +719,6 @@ page9 {
       font-size: 18px;
    }
    #footervideo{
-      height: 32vh;
+      height: 23vh;
    }
 }
